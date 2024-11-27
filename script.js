@@ -5,7 +5,8 @@ const pages = [
     "H_clc1.html", // image 1
     "H_clc2.html", // image 2
     "H_clc3.html", // image 3
-    "H_clc4.html"  // image 4
+    "H_clc4.html",  // image 4
+    "end.html"
 ];
 
 // Détecte la page actuelle ou l'image
